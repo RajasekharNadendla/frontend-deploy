@@ -21,6 +21,6 @@ variable "zone_name" {
 }
 
 #created as part of jenkins CD
-variable "app_varsion"{
+variable "app_version"{
 
 }
